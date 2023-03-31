@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 it now inculdes step for Github.
 
 Git pull is being learnt.
+
+Bye-Bye
